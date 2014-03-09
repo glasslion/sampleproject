@@ -34,11 +34,11 @@ setup(
     long_description=long_description,
 
     # The project URL.
-    url='http://github.com/pfmoore/sampleproject',
+    url='http://github.com/glasslion/sampleproject',
 
     # Author details
-    author='Paul Moore',
-    author_email='p.f.moore@gmail.com',
+    author='Leonardo Zhou',
+    author_email='glasslion@gmail.com',
 
     # Choose your license
     license='MIT',
